@@ -1,0 +1,3 @@
+- [x] Implement Book class in lib/book.py with __init__, page_count property, and turn_page method
+- [x] Implement Shoe class in lib/shoe.py with __init__, size property, and cobble method
+- [x] Run pytest to verify all tests pass
